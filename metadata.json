@@ -1,0 +1,7 @@
+{
+  "name": "MatricPulse 🇿🇦 ",
+  "description": "The elite AI-powered companion for South African Matric success. Featuring APS calculations, live university matching, and CAPS-aligned study tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
